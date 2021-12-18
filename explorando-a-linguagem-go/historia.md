@@ -1,6 +1,8 @@
 Criadores Robert Griesemer, Rob Pike e Ken Thompson.
 Lançado em Março de 2012.
 
+
+
 Pontos de partida
 Google trabalha muito com c++ e a linguagem é complexa e esse foi um dos grandes motivadores
 para criação do golang.

@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	// homogênea (mesmo tipo) e estática (fixo)
 	var notas [3]float64
 
 	notas[0], notas[1], notas[2] = 9.8, 2.2, 1.2
